@@ -2031,9 +2031,10 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;作業任務一&lt;/h2&gt;
-    &lt;p&gt;有關作業任務一的說明&lt;/p&gt;
-    &lt;p&gt;因為上課都沒有聽得很懂，所以都是拜託同學教我才懂得，還是會盡力學習。
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;對於程式這方面不太熟悉，對於老師教的也沒有很了解再加上上課都沒有很專心，作業都是拜託同學教導我才懂得，以後還是會盡力學習。&lt;/p&gt;
+    &lt;p&gt;筆記:分支 git branch (名稱)
+    選擇分支 git checkout (名稱)
 &lt;/section&gt;
 				
 </t>
