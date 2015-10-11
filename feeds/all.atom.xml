@@ -5,10 +5,10 @@
 
 &lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;第四週繪圖軟體SolveSpace練習
-(不知道怎麼調圖片大小)&lt;/p&gt;
+(width="某數值"會調整圖片大小)&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/Solve-test.png" width="500" alt="solve 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/SolveSpace-test2.png" width="1000" alt="solve 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/SolveSpace-test3.png" width="1200" alt="solve 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/SolveSpace-test2.png" width="500" alt="solve 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/SolveSpace-test3.png" width="500" alt="solve 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;h1&gt;使用 H1 標題&lt;/h1&gt;
 &lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視連續的資料&lt;/p&gt;
 &lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;
