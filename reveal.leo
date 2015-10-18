@@ -290,7 +290,22 @@
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>有關我的作業</vh></v>
 <v t="amd.20150915211351.9"><vh>作業任務一</vh></v>
-<v t="amd.20150915211351.12"><vh>第3張投影片</vh></v>
+<v t="leo.20151019044955.1"><vh>The rst3 tutorial</vh>
+<v t="leo.20151019044955.2"><vh>@rst ~/myDocument.html</vh>
+<v t="leo.20151019044955.3"><vh>Chapter I</vh>
+<v t="leo.20151019044955.4"><vh>@rst-ignore</vh></v>
+</v>
+<v t="leo.20151019044955.5"><vh>@rst-ignore-tree Chapter 2+</vh>
+<v t="leo.20151019044955.6"><vh>Chapter II</vh>
+<v t="leo.20151019044955.7"><vh>translation</vh></v>
+</v>
+</v>
+<v t="leo.20151019044955.8"><vh>Chapter XII</vh></v>
+<v t="leo.20151019044955.9"><vh>@rst-no-head The End</vh></v>
+</v>
+<v t="leo.20151019044955.10"><vh>~/myDocument.html.txt</vh></v>
+</v>
+<v t="amd.20150915211351.12"><vh>第4張投影片</vh></v>
 </v>
 </v>
 <v t="amd.20150915211351.15"><vh>script</vh></v>
@@ -1992,9 +2007,11 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h3&gt;第3張投影片&lt;/h3&gt;
+    &lt;h2&gt;成績自評&lt;/h2&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;並沒有在限定時間內完成作業，而是後來才補交作業的，所以我給自己60分 。
+    &lt;p&gt;第3周並沒有在限定時間內完成作業，而是後來才補交作業的，所以我給自己60分 。
+    但第4周與第5周的功課我都很用心在完成，並且也在其中獲得許多知識，更在其中發現滿喜歡使用leo的，因為真的非常方便，用來排版網頁也很容易，滿好上手的。
+    並且在作業中也繳交了截圖與影片，以證明我的成績量化依據，也方便老師用來評分。所以想把分數提高到70分。
 &lt;/section&gt;
 				
 </t>
@@ -2291,6 +2308,110 @@ Diff...
 	&lt;![endif]--&gt;
 &lt;/head&gt;
 @others
+</t>
+<t tx="leo.20151019044955.1">&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;第5周作業心得&lt;/h2&gt;
+    &lt;p&gt;Creo_Parametric 2.0這個軟體其實就是pro e 只是因為在今年被Creo公司合併了才改名，在這套軟體當中，可以發現跟其他繪圖軟體相似許多的地方，基本上操作模式大同小異，不過令我感到最大的方便之處在於，組合圖中的零件與零件相配合時，軟體內建有自動功能，所以並不需要特別點選使用什麼約束，而是軟體自動幫我判定，這一大優點讓我覺得pro e是個滿有效率的軟體。
+    &lt;/p&gt;</t>
+<t tx="leo.20151019044955.10">.. rst3: filename: ~/myDocument.html
+
+#############
+War and Peace
+#############
+
+        by Leo Tolstoy/Tolstoi
+        
+        BOOK ONE: 1805
+
+Chapter I
++++++++++
+
+"Well, Prince, so Genoa and Lucca are now just family estates of the
+Buonapartes. But I warn you, if you don't tell me that this means war,
+if you still try to defend the infamies and horrors perpetrated by
+that Antichrist--I really believe he is Antichrist--I will have
+nothing more to do with you and you are no longer my friend, no longer
+my 'faithful slave,' as you call yourself! But how do you do? I see
+I have frightened you--sit down and tell me all the news."
+
+...stuff happens...
+
+Chapter XII
++++++++++++
+
+From the time the law of Copernicus was discovered and proved, the
+mere recognition of the fact that it was not the sun but the earth
+that moves sufficed to destroy the whole cosmography of the
+ancients.
+
+...
+
+.. and now we skip to the end of last chapter, while demonstrating use of an
+    organizer node (a node whose name does not appear in the output document),
+    and that rst comments appear as html comments (try 'View Source' on
+    output.html)
+
+In the first case it was necessary to renounce the consciousness
+of an unreal immobility in space and to recognize a motion we did
+not feel; in the present case it is similarly necessary to renounce
+a freedom that does not exist, and to recognize a dependence of
+which we are not conscious.
+   
+--- The End ---
+
+</t>
+<t tx="leo.20151019044955.2">#############
+War and Peace
+#############
+
+        by Leo Tolstoy/Tolstoi
+        
+        BOOK ONE: 1805
+</t>
+<t tx="leo.20151019044955.3">"Well, Prince, so Genoa and Lucca are now just family estates of the
+Buonapartes. But I warn you, if you don't tell me that this means war, if
+you still try to defend the infamies and horrors perpetrated by that
+Antichrist--I really believe he is Antichrist--I will have nothing more to
+do with you and you are no longer my friend, no longer my 'faithful slave',
+as you call yourself! But how do you do? I see I have frightened you--sit
+down and tell me all the news."
+
+It was in July, 1805, and the speaker was the well-known Anna Pavlovna
+Scherer, maid of honor and favorite of the Empress Marya Fedorovna. With
+these words she greeted Prince Vasili Kuragin, a man of high rank and
+importance, who was the first to arrive at her reception. Anna Pavlovna had
+had a cough for some days. She was, as she said, suffering from la grippe;
+grippe being then a new word in St. Petersburg, used only by the elite.
+
+...stuff happens...</t>
+<t tx="leo.20151019044955.4">You can make whatever notes 
+to yourself you like here, 
+as these lines won't appear 
+in the output files. :)
+
+</t>
+<t tx="leo.20151019044955.5">Neither this node nor any descendant node will appear in the output file.</t>
+<t tx="leo.20151019044955.6">TL;DR
+
+...la femme la plus seduisante de Petersbourg,* ...</t>
+<t tx="leo.20151019044955.7">*The most fascinating woman in Petersburg.</t>
+<t tx="leo.20151019044955.8">From the time the law of Copernicus was discovered and proved, the mere
+recognition of the fact that it was not the sun but the earth that moves
+sufficed to destroy the whole cosmography of the ancients.
+
+...
+</t>
+<t tx="leo.20151019044955.9">..  and now we skip to the end of last chapter, while demonstrating use of an
+..  organizer node (a node whose name does not appear in the output document),
+..  and that rst comments appear as html comments (try 'View Source' on
+..  output.html)
+
+In the first case it was necessary to renounce the consciousness of an
+unreal immobility in space and to recognize a motion we did not feel; in
+the present case it is similarly necessary to renounce a freedom that does
+not exist, and to recognize a dependence of which we are not conscious.
+   
+--- The End ---
 </t>
 </tnodes>
 </leo_file>
